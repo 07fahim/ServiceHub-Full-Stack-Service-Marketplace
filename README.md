@@ -202,9 +202,9 @@ pip install -r requirements.txt
 The `.env` file is already present. Fill in your SSLCommerz credentials:
 
 ```env
-DATABASE_URL=postgresql://postgres:Fahim_Fahim4590@db.okflvhuxzedooszcvfcs.supabase.co:5432/postgres
+DATABASE_URL=''
 
-SECRET_KEY=supersecret-change-in-production-jwt-key-2024
+SECRET_KEY=''
 ALGORITHM=HS256
 ACCESS_TOKEN_EXPIRE_MINUTES=15
 REFRESH_TOKEN_EXPIRE_DAYS=7
